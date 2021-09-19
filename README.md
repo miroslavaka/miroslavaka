@@ -1,4 +1,4 @@
-👋 Hi, I’m Miroslava, constant learner, passionate about art, web desing and coding. Expoloring IT world and graduated from several trainings on https://ajtyvit.sk/ and 
+👋 Hi, I’m Miroslava, <br>constant learner, passionate about art, web desing and coding. Expoloring IT world and graduated from several trainings on https://ajtyvit.sk/ and 
 https://www.czechitas.cz/en in years 2020/2021.
 
  🌱 I’m currently learning JAVASCRIPT & REACT
