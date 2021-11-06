@@ -1,4 +1,4 @@
-  Hi, <br>I’m Miroslava, constant learner, passionate about art, web desing and coding. 
-  I’m currently learning HTML, CSS, JavaScript, and React <br> 
+  1F44B, <br>I’m Mira, constant learner, passionate about art, web desing and coding. 
+  Currently learning HTML, CSS, JavaScript, and React <br> 
   
 
