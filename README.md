@@ -1,4 +1,4 @@
-  1F44B, <br>I’m Mira, constant learner, passionate about art, web desing and coding. 
+  &#1F44B, <br>I’m Mira, constant learner, passionate about art, web desing and coding. 
   Currently learning HTML, CSS, JavaScript, and React <br> 
   
 
